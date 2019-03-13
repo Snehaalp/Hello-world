@@ -1,0 +1,16 @@
+3*8
+print (3*8)
+
+a= int(input("20:"))
+b= int(input("24:"))
+sum =a+b
+print ("sum:", sum)
+
+my_list = [ 20, "bathroom", 24, "garden"}
+print (my_list [0])
+print (my_list [1])
+print (my_list [2])
+print (my_list [3])
+
+for item in my_list:
+print (item)
